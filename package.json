@@ -1,0 +1,13 @@
+{
+  "name": "dproxy-python-app",
+  "version": "1.0.0",
+  "description": "Python Flask proxy application",
+  "scripts": {
+    "build": "echo 'This is a Python project. Use Docker to build: docker-compose build'",
+    "start": "echo 'This is a Python project. Use Docker to run: docker-compose up'",
+    "dev": "echo 'This is a Python project. Use Docker to run: docker-compose up'"
+  },
+  "keywords": ["python", "flask", "proxy"],
+  "author": "",
+  "license": "ISC"
+}
